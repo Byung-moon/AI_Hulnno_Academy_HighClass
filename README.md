@@ -18,6 +18,9 @@
 
 
 ### 필터링
+ > 필터링 중 median blurring
+ 
+ ![median](https://github.com/Byung-moon/AI_Hulnno_Academy_HighClass/blob/master/2020_0811_day7/image_median_bluring_screenshot.jpg)
 
 
 ### 모폴로지
