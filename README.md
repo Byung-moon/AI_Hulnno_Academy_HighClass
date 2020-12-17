@@ -11,7 +11,10 @@
 
 
 
-### 컨볼루션
+### Thresh Holding
+
+
+![tresh](https://github.com/Byung-moon/AI_Hulnno_Academy_HighClass/blob/master/2020_0811_day7/adaptive_thresholding_screenshot.jpg)
 
 
 ### 필터링
