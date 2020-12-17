@@ -5,6 +5,11 @@
  
 ### 히스토그램
 
+![histo](https://github.com/Byung-moon/AI_Hulnno_Academy_HighClass/blob/master/2020_0810_day6/changing_colorspaces.jpg)
+
+
+
+
 
 ### 컨볼루션
 
